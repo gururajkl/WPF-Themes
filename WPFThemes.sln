@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFThemes", "WPFThemes\WPFThemes.csproj", "{1D907CD8-E086-4122-84EB-0918B7652715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D907CD8-E086-4122-84EB-0918B7652715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D907CD8-E086-4122-84EB-0918B7652715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D907CD8-E086-4122-84EB-0918B7652715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D907CD8-E086-4122-84EB-0918B7652715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FE2D944-2A21-4BD7-A1C3-9858442AD7A6}
+	EndGlobalSection
+EndGlobal
